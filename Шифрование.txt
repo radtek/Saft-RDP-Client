@@ -1,0 +1,59 @@
+ public virtual string Encrypt(string plainText)
+  {
+   byte[] plainByte = ASCIIEncoding.ASCII.GetBytes(plainText);
+   byte[] keyByte = GetLegalKey();
+
+   // Set private key
+   mCryptoService.Key = keyByte;
+   SetLegalIV();
+   
+   // Encryptor object
+   ICryptoTransform cryptoTransform = mCryptoService.CreateEncryptor();
+   
+   // Memory stream object
+   MemoryStream ms = new MemoryStream();
+
+   // Crpto stream object
+   CryptoStream cs = new CryptoStream(ms, cryptoTransform, 
+        CryptoStreamMode.Write);
+
+   // Write encrypted byte to memory stream
+   cs.Write(plainByte, 0, plainByte.Length);
+   cs.FlushFinalBlock();
+
+   // Get the encrypted byte length
+   byte[] cryptoByte = ms.ToArray();
+
+   // Convert into base 64 to enable result to be used in Xml
+   return Convert.ToBase64String(cryptoByte, 0, cryptoByte.GetLength(0));
+  }
+  
+  public virtual string Decrypt(string cryptoText)
+  {
+   // Convert from base 64 string to bytes
+   byte[] cryptoByte = Convert.FromBase64String(cryptoText);
+   byte[] keyByte = GetLegalKey();
+
+   // Set private key
+   mCryptoService.Key = keyByte;
+   SetLegalIV();
+
+   // Decryptor object
+   ICryptoTransform cryptoTransform = mCryptoService.CreateDecryptor();
+   try
+   {
+    // Memory stream object
+    MemoryStream ms = new MemoryStream(cryptoByte, 0, cryptoByte.Length);
+
+    // Crpto stream object
+    CryptoStream cs = new CryptoStream(ms, cryptoTransform, 
+        CryptoStreamMode.Read);
+
+    // Get the result from the Crypto stream
+    StreamReader sr = new StreamReader(cs);
+    return sr.ReadToEnd();
+   }
+   catch
+   {
+    return null;
+   }

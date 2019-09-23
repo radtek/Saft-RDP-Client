@@ -1,0 +1,287 @@
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+I:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLient2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\Креатиff\SafT RDPCLient\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.AddServer.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\Креатиff\Development\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM2\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Pairs.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Pairs.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM3\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Pairs.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM4\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Pairs.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM5\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Pairs.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM6\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe.config
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.ResolveComReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.exe
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Saft RDP Client.pdb
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\Interop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RDCCLIENTHOSTLib.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\bin\Debug\AxInterop.RefEdit.dll
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\ResolveAssemblyReference.cache
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Askdialog.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.frm_addserver.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\SafTRDPClient.frm_main.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Pairs.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\SaftRDPClient.Properties.Resources.resources
+D:\TuMyP\Креатиff\Coding\VS 2008 projects\SafT RDPCLientM7\Saft RDP Client\Saft RDP Client\obj\Debug\Saft RDP Client.csproj.GenerateResource.Cache
